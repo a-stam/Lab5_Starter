@@ -1,6 +1,8 @@
 # Lab 5 - Starter
 Partners: none
 
-[Explore](explore.html)
-[Expose](expose.html)
+[Explore Page](explore.html)
+
+[Expose Page](expose.html)
+
 [GitHub Actions](https://github.com/a-stam/introduction-to-github)
